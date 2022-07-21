@@ -1,5 +1,4 @@
-
-
+[![Build status](https://ci.appveyor.com/api/projects/status/p8yepv2bvyi01eui?svg=true)](https://ci.appveyor.com/project/Corpse2011/auto5-2testmode-b)
 
 ## Задача №2 - Тестовый режим
 
